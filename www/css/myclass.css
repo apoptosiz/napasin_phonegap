@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+#myHead {
+	text-align:center;
+	font-size:16px;
+	
+	padding:25px;
+	background-color:#000;
+	color:#FFF;
+	border-radius:5px;
+}
+}
+#myContent{
+	text-align:center;
+	font-size:15px;
+	
+	padding:10px;
+	background-color:#FFF;
+	color:#000;
+	border:solid;
+	border-color:#917B91;
+	border-radius:16px;
+}
